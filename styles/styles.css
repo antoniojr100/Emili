@@ -51,3 +51,7 @@ a:hover{
 	border:3px solid white;
 	transition-duration: .2s;
 }
+
+iframe{
+    max-width: 90vw;
+}
